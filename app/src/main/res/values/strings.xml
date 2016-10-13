@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">boton_hola</string>
+    <string name="button_text">Hola</string>
+</resources>
