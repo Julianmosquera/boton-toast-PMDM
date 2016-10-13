@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
                         "Hola Mundo", Toast.LENGTH_SHORT);
 
         toast1.show();
+        Button miBoton=(Button)v;
+        ((Button) v).setText("ASASsdadsa");
+
+        
     }
 };
 
